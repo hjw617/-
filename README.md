@@ -2,10 +2,6 @@
 
 项目基于 vue-cli3.0 进行搭建，并使用了 vue 全家桶 vue vuex axios vue-router elementui，增加了按钮级别的权限控制
 
-### <a target="_blank" href="http://www.vueadmin.cn">线上预览地址</a>
-
-### <a target="_blank" href="https://github.com/loveRandy/react-admin">React 版本请移步</a>
-
 #### 脚手架版本:
 
 \*vue-cli-3.0
